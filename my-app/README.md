@@ -1,6 +1,6 @@
-Hello this is a project that i did few month ago to test our cv technical test difficulty. Most of the stuff have been stripped away like the css and validation such just incase in the future we want to hire another developer so they cant copy parts of this code to the technical test. 
+Hello this is a project that i did few month ago to test our cv technical test difficulty. Most of the stuff have been stripped away like the css and validation such just incase in the future we want to hire another developer so they cant copy parts of this code to do the technical test. 
 
-Currently the css has removed and replace with simple one that works on mobile as well. Validation have been removed and some of the functionality as well. The modal where you click on a job to open it up has been removed as well.
+Currently the css has been removed and replaced with simpler one that works on mobile as well. Validation has been removed and some of the functionality as well. The modal where you click on a job to open it up has been removed as well.
 
 I added the ability to use aws services with this (dynamodb, lambda using node js). You will have to manually change the job service to call the lambda which you can use the nodejs code i posted with this. It uses graphql instead of normal REST api.
 
